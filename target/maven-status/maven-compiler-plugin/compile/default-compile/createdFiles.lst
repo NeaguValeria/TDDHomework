@@ -1,0 +1,12 @@
+CustomStack.class
+VendingMachine\NotSufficientChangeException.class
+VendingMachine\Coin.class
+VendingMachine\SoldOutException.class
+VendingMachine\VendingMachineImpl.class
+VendingMachine\Inventory.class
+VendingMachine\NotFullyPaidException.class
+VendingMachine\Main.class
+Fibonacci.class
+VendingMachine\Item.class
+VendingMachine\PurchaseAndCoins.class
+VendingMachine\VendingMachine.class
